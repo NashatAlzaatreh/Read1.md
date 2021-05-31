@@ -18,6 +18,10 @@
 #### Markdown was designed with the explicit intention to be easily readable by humans. You should find that most of the syntax is pretty simple and intuitive.
 #### Here are the elements you’ll use most often:
 
+### Headings
 
+#Heading 1
+##Heading 2
+###Heading 3
 
 
