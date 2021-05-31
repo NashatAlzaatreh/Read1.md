@@ -20,8 +20,21 @@
 
 ### Headings
 
-#Heading 1
-##Heading 2
-###Heading 3
+
+
+1.# The largest heading
+
+2.## The second largest heading
+
+3.###### The smallest heading
+
+
+### Text
+
+1.*italic*
+2.**bold**
+3.***bold-italic***
+4.[link](https://example.com)
+
 
 
